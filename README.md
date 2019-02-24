@@ -1,11 +1,9 @@
 # PRODIGALMIND
 
-This repo contains includes 3 subtree.
+The Frontend repo contains the reactjs code
 
-The main repo form is the reactjs code
-
-And the 3 subtrees directories are inside the PM-Backend dir
-    PM-Backend contains the ML & Data Processing code. just run "python prodigy.py" in terminal after uncommenting the function you want to
-    run.
+The Backend directories contains two subdirectories
+    "Backend Db Code" contains the nodejs and mongodb code
+    "ML-DP & CV Code" contains the machine learning, data processing and open cv OCR code
     
     
