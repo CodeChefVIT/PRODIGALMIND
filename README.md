@@ -1,9 +1,9 @@
 # PRODIGALMIND
 
-The Frontend repo contains the reactjs code
+The Frontend repo contains the reactjs code<br>
 
-The Backend directories contains two subdirectories
-    "Backend Db Code" contains the nodejs and mongodb code
-    "ML-DP & CV Code" contains the machine learning, data processing and open cv OCR code
+The Backend directories contains two subdirectories:-<br>
+        "Backend Db Code" contains the nodejs and mongodb code<br>
+        "ML-DP & CV Code" contains the machine learning, data processing and open cv OCR code
     
     
